@@ -5,7 +5,7 @@ This project was created for the [Google Cloud Run Hackathon on Devpost](https:/
 
 ## Objective
 
-EvaluMe is a web application designed to provide linguistic and semantic analysis of handwritten text. Users can upload an image of their writing, specify the subject of the text, and receive feedback on various textual concepts. The primary audience for this application is teenagers, and with that in mind, we have prioritized user privacy.
+Our application is a global, formative writing assessment platform designed to support students who must produce texts for exams, admissions processes, and academic contexts in different countries. Users can upload a photo or scanned file of their handwritten text, and the system automatically reads and evaluates it based on structured criteria: cohesion, coherence, argumentative organization, semantic clarity, grammatical accuracy, and adherence to the task and genre. From this analysis, the app generates an objective score and detailed feedback, highlighting strengths, recurring issues, and concrete suggestions for improvement, without claiming to replace any official exam board. The core goal is to give students anywhere in the world a reliable, immediate benchmark of their writing quality, showing how their text aligns with the expectations of different assessment frameworks (entrance exams, proficiency tests, academic writing, argumentative essays) and effectively supporting real development of writing skills, not just another empty grade on a screen.
 
 ## Application Architecture
 
