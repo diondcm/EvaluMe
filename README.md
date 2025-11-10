@@ -5,7 +5,9 @@ This project was created for the [Google Cloud Run Hackathon on Devpost](https:/
 
 ## Objective
 
-EvaluMe is a web application designed to provide linguistic and semantic analysis of handwritten text. Users can upload an image of their writing, specify the subject of the text, and receive feedback on various textual concepts. The primary audience for this application is teenagers, and with that in mind, we have prioritized user privacy.
+EvaluMe is a web application designed to help students evaluate their handwritten texts. It uses linguistic and semantic analysis to provide a detailed writing performance score.
+Users can upload an image of their writing, specify the topic, and receive instant feedback on cohesion, coherence, grammar, and argumentation, all automatically and in an accessible format.
+Developed primarily for teenagers preparing for exams and entrance tests, the app prioritizes user privacy and data security, empowering each student to improve their writing with confidence and independence.
 
 ## Application Architecture
 
