@@ -1,0 +1,5 @@
+{
+  "name": "Ghost Analyzer",
+  "description": "An application to analyze uploaded images using AI. It provides a structured four-part report on the image content and allows downloading the report as a PDF.",
+  "requestFramePermissions": []
+}
